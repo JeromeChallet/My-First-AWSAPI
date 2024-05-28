@@ -1,0 +1,32 @@
+body {
+    background-color: grey;
+    color: white;
+    height: 100%;
+  }
+  
+  .btn-large {
+    transform: scale(10);
+    transform-origin: center;
+  }
+  
+  html, body {
+    height: 100%;
+  }
+  
+  .container-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: column;
+  }
+  
+  #apiResponse {
+    white-space: pre-wrap; /* Makes sure the JSON is displayed nicely */
+    text-align: center;
+    margin-top: 20px;
+    font-size: 116px; /* Adjust font size as needed */
+  }
+  
+  
+  
