@@ -25,11 +25,6 @@ body {
     white-space: pre-wrap; /* Makes sure the JSON is displayed nicely */
     text-align: center;
     margin-top: 20px;
-    font-size: 116px; /* Adjust font size as needed */
+    font-size: 116px; 
   }
   
-  
-  .btn-large {
-    transform: scale(10);
-    transform-origin: center;
-  }
